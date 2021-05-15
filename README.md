@@ -1,6 +1,7 @@
 # reverseshell
 
-Reverseshell es una simple utilidad que te crea la sintaxis para ejecutar una reverse shell en el lenguaje que le digas, y te la copia al clipboard.
+Reverseshell es una utilidad muy sencilla que te crea la sintaxis para ejecutar una reverse shell en el lenguaje que le digas, y te la copia al clipboard.
+Basta con descargarla, darle permisos de ejecución **chmod 755 reverseshell** y copiarla a alguna ruta del path, como por ejemplo /usr/bin.
 
 ## Ejemplo
 
